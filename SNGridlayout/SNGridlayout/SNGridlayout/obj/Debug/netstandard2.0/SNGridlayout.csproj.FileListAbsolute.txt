@@ -1,0 +1,15 @@
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\bin\Debug\netstandard2.0\SNGridlayout.deps.json
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\bin\Debug\netstandard2.0\SNGridlayout.dll
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\bin\Debug\netstandard2.0\ref\SNGridlayout.dll
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\bin\Debug\netstandard2.0\SNGridlayout.pdb
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\SNGridlayout.csprojAssemblyReference.cache
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\SNGridlayout.AssemblyInfoInputs.cache
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\SNGridlayout.AssemblyInfo.cs
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\SNGridlayout.csproj.CoreCompileInputs.cache
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\SNGridlayout.dll
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\ref\SNGridlayout.dll
+C:\Users\jlbedon\source\repos\SNGridlayout\SNGridlayout\SNGridlayout\obj\Debug\netstandard2.0\SNGridlayout.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdaC4OCnyJ31oX16HIizKfPfSZ/3SRSWsuHXfUzncgw/TFwjga5xcv6/IjxH+GFc39zq6hBqmx01ja9Li2Tm0w==",
+  "success": true,
+  "projectFilePath": "D:\\SIEP\\Xamarin\\CURSO\\Modulo1\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlbedon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jlbedon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jlbedon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jlbedon\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\jlbedon\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
